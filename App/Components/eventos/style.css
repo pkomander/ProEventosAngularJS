@@ -1,0 +1,38 @@
+body{
+    background: #f0f0f0;
+}
+
+/* centralizando jumbotron e diminuindo tamanho */
+.jumbotronMarginTop {
+    padding: 20px;
+    margin-bottom: 0;
+    background-color: #f8f9fa;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-size: 24px;
+    background-color: rgb(48, 48, 48);
+    color: white;
+}
+
+#jumbotronMarginTop h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+#jumbotronMarginTop p {
+    font-size: 16px;
+}
+
+.divEventos{
+    border: 1px solid white;
+    padding: 20px;
+    margin-top: 2%;
+    background: white;
+}
+
+.logo{
+    font-size: 50px;
+    margin-right: 10px;
+}
